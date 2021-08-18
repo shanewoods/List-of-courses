@@ -11,8 +11,7 @@ Here is a list of things I have learned.
 - Certifications
 - Languages 
 - Coursework
-- 
-- 
+
 
 
 
