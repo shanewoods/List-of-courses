@@ -5,6 +5,18 @@ Here is a list of things I have learned.
 
 
 
+# 📄 Index
+
+- Academic Education
+- Certifications
+- Languages 
+- Coursework
+- 
+- 
+
+
+
+
 # 🎓 Academic Education
 
 - Bachelor of science degree in Information Technology. Colorado State University Global (Colorado, USA) [website][1].
@@ -16,6 +28,14 @@ Here is a list of things I have learned.
 
 
 # 📚 Certifications
+
+
+
+
+
+# 🌎 Languages 
+
+
 
 
 
