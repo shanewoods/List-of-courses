@@ -18,7 +18,7 @@ Here is a list of things I have learned.
 
 # 🎓 Academic Education
 
-- Bachelor of science degree in Information Technology. Colorado State University Global (Colorado, USA) [website][1].
+- Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][1] 2014-2019 (5 years). 
 
 
 
