@@ -18,7 +18,7 @@ Here is a list of things I have learned.
 
 # 🎓 Academic Education
 
-- Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][1] 2014-2019 (5 years). 
+- Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][1] 2014-2019 (5 years). 📎 file here
 
 
 
@@ -43,6 +43,6 @@ Here is a list of things I have learned.
 
 
 # Pédagogie
-- Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours. 📎 certificate
+- Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours. 📎 file here
 
 [2]:https://openclassrooms.com/ "OpenClassrooms"
