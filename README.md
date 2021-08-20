@@ -40,3 +40,9 @@ Here is a list of things I have learned.
 
 
 # 💻 Coursework 
+
+
+# Pédagogie
+- Learn how to Learn School: [OpenClassrooms][2]. Duration 6 hours. 📎 certificate
+
+[2]:https://openclassrooms.com/ "OpenClassrooms"
