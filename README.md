@@ -41,13 +41,13 @@
 # 💻 Coursework 
   Here are a list of courses I am currently working on. There are currently  courses with a total of 800 hours.
 
-# Pédagogie
+Pédagogie
 - Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours. 📎 file here
 
-# Design
+Design
 - Create Simple Prototypes With Wireframes. School: [OpenClassrooms][2]. Duration 15 hours. 📎 file here
 
-# Development
+Development
 - Understanding the Web. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
 - Build Your First Web Pages With HTML and CSS. School: [OpenClassrooms][2]. Duration 10 hours. 📎 file here
 - Create Web Page Layouts With CSS. School: [OpenClassrooms][2]. Duration 10 hours. 📎 file here
@@ -70,13 +70,13 @@
 - Decouple Your Web Architecture for Robust Java Applications. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
 
 
-# Git
+Git
 - Manage Your Code Project With Git & Github. School: [OpenClassrooms][2]. Duration 20 hours. 📎 file here
 
-# Project Management 
+Project Management 
 - Learn About Agile Project Management and SCRUM. School: [OpenClassrooms][2]. Duration 15 hours. 📎 file here
 
-# Career Coaching
+Career Coaching
 - Stay Up to Date With Innovations in Your Field. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
 
 
