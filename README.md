@@ -1,6 +1,6 @@
 #  🎒My Latest Studies
 
-Here is a list of things I have learned. 
+  Here is a list of things I have learned. 
 
 
 
@@ -39,7 +39,7 @@ Here is a list of things I have learned.
 
 
 # 💻 Coursework 
-Here are a list of courses I am currently working on. There are currently  courses with a total of 800 hours.
+  Here are a list of courses I am currently working on. There are currently  courses with a total of 800 hours.
 
 # Pédagogie
 - Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours. 📎 file here
