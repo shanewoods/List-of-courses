@@ -1,6 +1,6 @@
 #  🎒My Latest Studies
 
-  Here is a list of things I have learned. 
+  Here is a list of things I have learned and working on. 
 
 
 
@@ -28,6 +28,7 @@
 
 # 📚 Certifications
 
+-In Progress
 
 
 
