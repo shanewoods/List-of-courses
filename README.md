@@ -28,7 +28,7 @@
 
 # 📚 Certifications
 
--In Progress
+- In Progress
 
 
 
