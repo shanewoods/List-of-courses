@@ -67,16 +67,16 @@ Development
 
 Git
 
-Manage Your Code Project With Git & Github. School: [OpenClassrooms] [2]. Duration 20 hours. 📎 file here
+- Manage Your Code Project With Git & Github. School: [OpenClassrooms] [2]. Duration 20 hours. 📎 file here
 
 Project Management
 
-Learn About Agile Project Management and SCRUM. School: [OpenClassrooms] [2]. Duration 15 hours. 📎 file here
+- Learn About Agile Project Management and SCRUM. School: [OpenClassrooms] [2]. Duration 15 hours. 📎 file here
 
 
 Career Coaching
 
-Stay Up to Date With Innovations in Your Field. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
+- Stay Up to Date With Innovations in Your Field. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
 
 
 [2]:https://openclassrooms.com/ "OpenClassrooms"
