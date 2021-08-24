@@ -10,6 +10,7 @@
 - Academic Education
 - Languages 
 - Coursework
+- Latest Projects
 
 
 
