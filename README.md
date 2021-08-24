@@ -8,7 +8,6 @@
 # 📄 Index
 
 - Academic Education
-- Certifications
 - Languages 
 - Coursework
 
