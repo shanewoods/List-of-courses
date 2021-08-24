@@ -26,13 +26,6 @@
 [1]:https://csuglobal.edu/ "website"
 
 
-# 📚 Certifications
-
-- 2021 In Progress
-
-
-
-
 # 🌎 Language
 
 - English: Native speaker. 
