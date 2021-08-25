@@ -38,6 +38,7 @@ Here are a list of courses I am currently working on. There are currently course
 Pédagogie
 
 - Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours. 📎 file here
+
 Design
 
 - Create Simple Prototypes With Wireframes. School: [OpenClassrooms][2]. Duration 15 hours. 📎 file here
