@@ -18,7 +18,7 @@
 
 # 🎓 Academic Education
 
-- Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][1] 2014-2019 (5 years). 📎 file here
+- Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][1] 2014-2019 (5 years).
 
 
 
@@ -37,47 +37,47 @@ Here are a list of courses I am currently working on. There are currently course
 
 Pédagogie
 
-- Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours. 📎 file here
+- Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours.
 
 Design
 
-- Create Simple Prototypes With Wireframes. School: [OpenClassrooms][2]. Duration 15 hours. 📎 file here
+- Create Simple Prototypes With Wireframes. School: [OpenClassrooms][2]. Duration 15 hours.
 
 Development
 
-- Understanding the Web. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Build Your First Web Pages With HTML and CSS. School: [OpenClassrooms][2]. Duration 10 hours. 📎 file here
-- Create Web Page Layouts With CSS. School: [OpenClassrooms][2]. Duration 10 hours. 📎 file here
-- Think like a computer: the logic of programming. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Learn the Command Line in Terminal. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Learn programming with Java. School: [OpenClassrooms][2]. Duration 15 hours. 📎 file here
-- Set up your Java development environment. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Write Agile Documentation: User Stories & Acceptance Tests. School: [OpenClassrooms][2]. Duration 10 hours. 📎 file here
-- Apply a Domain-Driven Design Approach to Development. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Use Testing in Java to Achieve Quality Applications. School: [OpenClassrooms][2]. Duration 10 hours. 📎 file here
-- Debug Your Java Applications. School: [OpenClassrooms][2]. Duration 6 hours. 📎 file here
-- Use MVC, SOLID Principles, and Design Patterns in Java. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Build Your Web Projects With REST APIs. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Create Web Applications Efficiently With the Spring Boot MVC Framework. School: [OpenClassrooms][2]. Duration 15 hours. 📎 file here
-- Design the Logical Model of Your Relational Database. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Implement a Relational Database with SQL. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
-- Persist Your Java Application's Data With the Repository Pattern. School: [OpenClassrooms][2]. Duration 6 hours. 📎 file here
-- Secure Your Web Application With Spring Security. School: [OpenClassrooms][2]. Duration 8 hours. 📎 file here
-- Scale Up Your Code With Java Concurrency. School: [OpenClassrooms][2]. Duration 12 hours. 📎 file here
-- Decouple Your Web Architecture for Robust Java Applications. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
+- Understanding the Web. School: [OpenClassrooms][2]. Duration 4 hours.
+- Build Your First Web Pages With HTML and CSS. School: [OpenClassrooms][2]. Duration 10 hours.
+- Create Web Page Layouts With CSS. School: [OpenClassrooms][2]. Duration 10 hours.
+- Think like a computer: the logic of programming. School: [OpenClassrooms][2]. Duration 4 hours.
+- Learn the Command Line in Terminal. School: [OpenClassrooms][2]. Duration 4 hours.
+- Learn programming with Java. School: [OpenClassrooms][2]. Duration 15 hours.
+- Set up your Java development environment. School: [OpenClassrooms][2]. Duration 4 hours.
+- Write Agile Documentation: User Stories & Acceptance Tests. School: [OpenClassrooms][2]. Duration 10 hours.
+- Apply a Domain-Driven Design Approach to Development. School: [OpenClassrooms][2]. Duration 4 hours.
+- Use Testing in Java to Achieve Quality Applications. School: [OpenClassrooms][2]. Duration 10 hours.
+- Debug Your Java Applications. School: [OpenClassrooms][2]. Duration 6 hours.
+- Use MVC, SOLID Principles, and Design Patterns in Java. School: [OpenClassrooms][2]. Duration 4 hours.
+- Build Your Web Projects With REST APIs. School: [OpenClassrooms][2]. Duration 4 hours.
+- Create Web Applications Efficiently With the Spring Boot MVC Framework. School: [OpenClassrooms][2]. Duration 15 hours.
+- Design the Logical Model of Your Relational Database. School: [OpenClassrooms][2]. Duration 4 hours.
+- Implement a Relational Database with SQL. School: [OpenClassrooms][2]. Duration 4 hours.
+- Persist Your Java Application's Data With the Repository Pattern. School: [OpenClassrooms][2]. Duration 6 hours.
+- Secure Your Web Application With Spring Security. School: [OpenClassrooms][2]. Duration 8 hours.
+- Scale Up Your Code With Java Concurrency. School: [OpenClassrooms][2]. Duration 12 hours.
+- Decouple Your Web Architecture for Robust Java Applications. School: [OpenClassrooms][2]. Duration 4 hours.
 
 Git
 
-- Manage Your Code Project With Git & Github. School: [OpenClassrooms][2]. Duration 20 hours. 📎 file here
+- Manage Your Code Project With Git & Github. School: [OpenClassrooms][2]. Duration 20 hours.
 
 Project Management
 
-- Learn About Agile Project Management and SCRUM. School:[OpenClassrooms][2]. Duration 15 hours. 📎 file here
+- Learn About Agile Project Management and SCRUM. School:[OpenClassrooms][2]. Duration 15 hours.
 
 
 Career Coaching
 
-- Stay Up to Date With Innovations in Your Field. School: [OpenClassrooms][2]. Duration 4 hours. 📎 file here
+- Stay Up to Date With Innovations in Your Field. School: [OpenClassrooms][2]. Duration 4 hours.
 
 
 [2]:https://openclassrooms.com/ "OpenClassrooms"
