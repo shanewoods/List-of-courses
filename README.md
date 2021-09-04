@@ -18,12 +18,12 @@
 
 # 🎓 Academic Education
 
-- Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][1] 2014-2019 (5 years).
+- Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][0] 2014-2019 (5 years).
 
 
 
 
-[1]:https://csuglobal.edu/ "website"
+[0]:https://csuglobal.edu/ "website"
 
 
 # 🌎 Language
@@ -33,64 +33,38 @@
 
 
 # 💻 Coursework 
-Here are a list of courses I am currently working on. There are currently courses with a total of 800 hours.
+Here are a list of courses I am currently working on. 
 
 Pédagogie
 
-- Learn how to Learn. School: [OpenClassrooms][2]. Duration 6 hours.
+- Learn how to Learn. School: [OpenClassrooms][1]. Duration 6 hours.
 
 Design
 
-- Create Simple Prototypes With Wireframes. School: [OpenClassrooms][2]. Duration 15 hours.
+- Complete Web & Mobile Designer in 2021: UI/UX, Figma. School: [Udemy][2]. Duration 26 hours.
 
 Development
 
-- Understanding the Web. School: [OpenClassrooms][2]. Duration 4 hours.
-- Build Your First Web Pages With HTML and CSS. School: [OpenClassrooms][2]. Duration 10 hours.
+- Understanding the Web. School: [OpenClassrooms][1]. Duration 4 hours.
+- Build Your First Web Pages With HTML and CSS. School: [OpenClassrooms][1]. Duration 10 hours.
 - Create Web Page Layouts With CSS. School: [OpenClassrooms][2]. Duration 10 hours.
-- Think like a computer: the logic of programming. School: [OpenClassrooms][2]. Duration 4 hours.
-- Learn the Command Line in Terminal. School: [OpenClassrooms][2]. Duration 4 hours.
-- Learn programming with Java. School: [OpenClassrooms][2]. Duration 15 hours.
-- Set up your Java development environment. School: [OpenClassrooms][2]. Duration 4 hours.
-- Write Agile Documentation: User Stories & Acceptance Tests. School: [OpenClassrooms][2]. Duration 10 hours.
-- Apply a Domain-Driven Design Approach to Development. School: [OpenClassrooms][2]. Duration 4 hours.
-- Use Testing in Java to Achieve Quality Applications. School: [OpenClassrooms][2]. Duration 10 hours.
-- Debug Your Java Applications. School: [OpenClassrooms][2]. Duration 6 hours.
-- Use MVC, SOLID Principles, and Design Patterns in Java. School: [OpenClassrooms][2]. Duration 4 hours.
-- Build Your Web Projects With REST APIs. School: [OpenClassrooms][2]. Duration 4 hours.
-- Create Web Applications Efficiently With the Spring Boot MVC Framework. School: [OpenClassrooms][2]. Duration 15 hours.
-- Design the Logical Model of Your Relational Database. School: [OpenClassrooms][2]. Duration 4 hours.
-- Implement a Relational Database with SQL. School: [OpenClassrooms][2]. Duration 4 hours.
-- Persist Your Java Application's Data With the Repository Pattern. School: [OpenClassrooms][2]. Duration 6 hours.
-- Secure Your Web Application With Spring Security. School: [OpenClassrooms][2]. Duration 8 hours.
-- Scale Up Your Code With Java Concurrency. School: [OpenClassrooms][2]. Duration 12 hours.
-- Decouple Your Web Architecture for Robust Java Applications. School: [OpenClassrooms][2]. Duration 4 hours.
+- Modern HTML & CSS From The Beginning. School: [Udemy][2]. Duration 20 hours.
+- The Complete Web Developer in 2021: Zero to Mastery. School: [Udemy][2]. Duration 36 hours.
+- JavaScript: The Advanced Concepts: Zero to Mastery. School: [Udemy][2]. Duration 25 hours.
+- Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL). School: [Udemy][2]. Duration 41 hours.
+
 
 Git
 
-- Manage Your Code Project With Git & Github. School: [OpenClassrooms][2]. Duration 20 hours.
+- Manage Your Code Project With Git & Github. School: [OpenClassrooms][1]. Duration 20 hours.
 
-Project Management
+[1]:https://openclassrooms.com/ "OpenClassrooms"
+[2]:https://udemy.com/ "Udemy"
+[3]:https://frontendmasters.com/ "Frontendmasters"
 
-- Learn About Agile Project Management and SCRUM. School:[OpenClassrooms][2]. Duration 15 hours.
-
-
-Career Coaching
-
-- Stay Up to Date With Innovations in Your Field. School: [OpenClassrooms][2]. Duration 4 hours.
-
-
-[2]:https://openclassrooms.com/ "OpenClassrooms"
 
 
 # Latest Projects
 
-- Debug a Java Application.
-- Design an Application to Fit Your Client's Needs.
-- Fix and Update a Java Application Using Best Testing Practices.
-- Create Your First Java Web Application From Scratch.
-- Work with Databases to Create a Secure Web Application.
-- Make Your Java back-end More Adaptable with a REST API.
-- Scale Up Your App With Distributed Systems.
-- Develop a Complete Application For Your Client Using Agile Techniques.
+Coming Soon.
 
