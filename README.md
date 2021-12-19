@@ -20,7 +20,7 @@
 
 - Completed Bachelor of science degree of Information Technology . Colorado State University Global (Colorado, USA) [website][0] 2014-2019 (5 years).
 
-- Frontend Development Bootcamp. School: [FrontendMasters][3]. Duration 19 hours.
+
 
 
 
