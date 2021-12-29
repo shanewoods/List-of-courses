@@ -46,10 +46,11 @@ Development
 - Create Web Page Layouts With CSS. School: [OpenClassrooms][2]. Duration 10 hours.
 
 Technical Writing
+- Technical Writing Certification Course. School: [Technical Writer HQ][4]. Duration 10 hours.
 - Git and GitHub for Writers. School: [Udemy][2]. Duration 2.5 hours.
 - Coding for Writers. School: [Udemy][2]. Duration 2.5 hours.
-- Technical Writing Certification Course. School: [Technical Writer HQ][4]. Duration 25 hours.
-- Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL). School: [Udemy][2]. Duration 41 hours.
+
+
 
 
 
