@@ -31,13 +31,9 @@
 - English: Native speaker. 
 
 
-
 # 💻 Coursework 
 Here are a list of courses I am currently working on. 
 
-Pédagogie
-
-- Learn how to Learn. School: [OpenClassrooms][1]. Duration 6 hours.
 
 Design
 
@@ -48,15 +44,14 @@ Development
 - Understanding the Web. School: [OpenClassrooms][1]. Duration 4 hours.
 - Build Your First Web Pages With HTML and CSS. School: [OpenClassrooms][1]. Duration 10 hours.
 - Create Web Page Layouts With CSS. School: [OpenClassrooms][2]. Duration 10 hours.
-- Modern HTML & CSS From The Beginning. School: [Udemy][2]. Duration 20 hours.
-- The Complete Web Developer in 2021: Zero to Mastery. School: [Udemy][2]. Duration 36 hours.
+
+Technical Writing
+- Git and GitHub for Writers. School: [Udemy][2]. Duration 2.5 hours.
+- Coding for Writers. School: [Udemy][2]. Duration 2.5 hours.
 - JavaScript: The Advanced Concepts: Zero to Mastery. School: [Udemy][2]. Duration 25 hours.
 - Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL). School: [Udemy][2]. Duration 41 hours.
 
 
-Git
-
-- Manage Your Code Project With Git & Github. School: [OpenClassrooms][1]. Duration 20 hours.
 
 [0]:https://csuglobal.edu/ "website"
 [1]:https://openclassrooms.com/ "OpenClassrooms"
