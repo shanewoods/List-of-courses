@@ -48,7 +48,7 @@ Development
 Technical Writing
 - Git and GitHub for Writers. School: [Udemy][2]. Duration 2.5 hours.
 - Coding for Writers. School: [Udemy][2]. Duration 2.5 hours.
-- JavaScript: The Advanced Concepts: Zero to Mastery. School: [Udemy][2]. Duration 25 hours.
+- Technical Writing Certification Course. School: [Technical Writer HQ][4]. Duration 25 hours.
 - Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL). School: [Udemy][2]. Duration 41 hours.
 
 
@@ -57,6 +57,7 @@ Technical Writing
 [1]:https://openclassrooms.com/ "OpenClassrooms"
 [2]:https://udemy.com/ "Udemy"
 [3]:https://frontendmasters.com/ "Frontendmasters"
+[4]:https://technicalwriterhq.com/technical-writing-certification-courses// "Technical Writer HQ"
 
 
 
